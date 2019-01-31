@@ -2,8 +2,8 @@
 ___
 
 En concurrence directe avec _OpenClassroom_ et _MOOCademy_ (tiens donc ce nom me dit quelque chose.. 🤔). En effet le concept de cours en ligne inspire de plus en plus de personnes à travers le globe. De nos jours les gens n'ont plus le temps de concilier une vie "normale" et des cours en école. (Qui a le temps pour ces conneries?)
-Le concept est simple : pas d'école, pas de professeur, pas de salle de classe, pas de mutuelle étudiante, pas de BDE, pas de pause récréation. (C'est marrant ça me rappelle une certaine formation de développement web...). 
-(_Oh ! Un copier-coller sauvage apparaît ! Correcteur envoie Battage de Steak. Battage de Steak regarde Correcteur pour savoir quoi faire._) 
+Le concept est simple : pas d'école, pas de professeur, pas de salle de classe, pas de mutuelle étudiante, pas de BDE, pas de pause récréation. (C'est marrant ça me rappelle une certaine formation de développement web...)
+<br/>(_Oh ! Un copier-coller sauvage apparaît ! Correcteur envoie Battage de Steak. Battage de Steak regarde Correcteur pour savoir quoi faire._) 
 
 ___
 
