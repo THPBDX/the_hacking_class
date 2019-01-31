@@ -1,3 +1,3 @@
 class Student < ApplicationRecord
-  references :course
+  belongs_to :course
 end
